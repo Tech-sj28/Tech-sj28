@@ -59,29 +59,29 @@ Tools & Deployment
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+🏆 My Badges & Achievements
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tech-sj28&color=blue&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Tech-sj28?style=for-the-badge&logo=github&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/Tech-sj28?style=for-the-badge&logo=github&label=Total%20Stars)
+![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github-sponsors)
 
 ---
 
 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tech-sj28&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tech-sj28&theme=dark&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tech-sj28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-sj28&theme=dark&hide_border=false" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-sj28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-sj28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
 </div>
-
----
-
-🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tech-sj28&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
